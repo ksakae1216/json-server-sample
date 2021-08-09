@@ -1,0 +1,11 @@
+{
+  "soccer": [
+    { "id": 7, "name": "kubo", "position": "MF", "createdAt": "2021/08/09 10:00:00" },
+    { "id": 10, "name": "doan", "position": "MF", "createdAt": "2021/08/09 10:00:00"},
+    { "id": 4, "name": "yoshida", "position": "CB", "createdAt": "2021/08/09 10:00:00"}
+  ],
+  "baseball": [
+    { "id": 6, "name": "sakamoto", "position": "ショート", "createdAt": "2021/08/09 10:00:00" },
+    { "id": 51, "name": "suzuki", "position": "センター", "createdAt": "2021/08/09 10:00:00" }
+  ]
+}
